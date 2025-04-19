@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.401 s <<< FAILURE! - in TestSuite
+testAdd(org.apache.commons.lang3Test.ArrayUtilsTestNGTest)  Time elapsed: 0.27 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'originalArray' is required by @Test on method testAdd but has not been marked @Optional or defined
+
+

@@ -1,0 +1,5 @@
+org\apache\commons\lang3Test\ArrayUtilsTestNGTest.class
+org\apache\commons\lang3Test\AllTests.class
+org\apache\commons\lang3Test\TestArrayUtils.class
+org\apache\commons\lang3Test\ArrayUtils.class
+org\apache\commons\lang3Test\ArrayUtilsJUnitTest.class
